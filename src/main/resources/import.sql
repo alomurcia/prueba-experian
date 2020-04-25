@@ -5,7 +5,6 @@ INSERT INTO regiones (id, nombre) VALUES (4, 'Europa');
 INSERT INTO regiones (id, nombre) VALUES (5, 'Asia');
 INSERT INTO regiones (id, nombre) VALUES (6, 'Africa');
 INSERT INTO regiones (id, nombre) VALUES (7, 'Oceanía');
-INSERT INTO regiones (id, nombre) VALUES (8, 'Antártida');
 
 INSERT INTO clientes (region_id, nombre, apellido, email, create_at) VALUES(1, 'Alejandro', 'Castañeda', 'alomurcia@gmail.com', '2019-04-23');
 INSERT INTO clientes (region_id, nombre, apellido, email, create_at) VALUES(2, 'Nico', 'Murcia', 'nicomurcia@gmail.com', '2019-04-23');
